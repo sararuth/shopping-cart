@@ -6,7 +6,6 @@ body{
   margin: 0;
 }
 
-
 header{  
   background-color: black;   
   min-height: 4rem; 
@@ -62,31 +61,29 @@ a.text:hover, li:hover{
   
 }
 .product{
-    padding: 10px;
-    flex-basis: 33%;
-    text-align: center;
-    margin-bottom: 40px;
+  padding: 10px;
+  flex-basis: 33%;
+  text-align: center;
+  margin-bottom: 40px;
     
 }
 .product img {
-    width: 70%;
-    height: auto;
+  width: 70%;
+  height: auto;
     
 }
 
 .right {
-    height: 100%;
-    width: 20%;
-    position: fixed;
-    z-index: 1;
-    top: 80px;
-    right: 0;
-    background-color: #f4f6f9;
-    overflow-x: hidden;
-    padding-top: 20px;
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  z-index: 1;
+  top: 80px;
+  right: 0;
+  background-color: #f4f6f9;
+  overflow-x: hidden;
+  padding-top: 20px;
 }
-
-
 
 .addToCart {
   background-color: lightgrey;
@@ -96,7 +93,6 @@ a.text:hover, li:hover{
   font-weight: 900;
   width: 75%;
   cursor: pointer;
-  
 }
 
 .listItems {
